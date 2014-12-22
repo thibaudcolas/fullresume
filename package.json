@@ -1,0 +1,31 @@
+{
+  "name": "jsonresume",
+  "version": "1.0.0",
+  "description": "My CV in the JSON-based jsonresume.org format.",
+  "author": "ThibWeb",
+  "license": "ISC",
+  "homepage": "https://github.com/ThibWeb/jsonresume",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ThibWeb/jsonresume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ThibWeb/jsonresume/issues"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "json",
+    "jsonresume"
+  ],
+  "main": "resume.json",
+  "devDependencies": {
+    "resume-cli": "^0.3.10"
+  },
+  "scripts": {
+    "start": "resume serve",
+    "test": "resume test",
+    "export:pdf": "resume export --format pdf --theme paper",
+    "export:html": "resume export --format html --theme flat"
+  }
+}
