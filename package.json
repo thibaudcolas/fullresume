@@ -21,11 +21,13 @@
     "jsonresume"
   ],
   "devDependencies": {
-    "resume-cli": "^0.3.11"
+    "resume-cli": "^0.3.11",
+    "write-good": "^0.8.0"
   },
   "scripts": {
     "start": "resume serve",
     "test": "resume test",
+    "lint": "write-good resume.json",
     "export:pdf": "resume export --format pdf --theme paper",
     "export:html": "resume export --format html --theme flat"
   }
