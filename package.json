@@ -27,7 +27,7 @@
   "scripts": {
     "start": "resume serve",
     "test": "resume test",
-    "lint": "write-good resume.json",
+    "lint": "write-good resume.json && ./rank-writing.py resume.json",
     "export:pdf": "resume export --format pdf --theme paper",
     "export:html": "resume export --format html --theme flat"
   }
