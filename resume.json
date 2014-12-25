@@ -6,7 +6,7 @@
     "email": "thib@thib.me",
     "phone": "+64 21 046 1909",
     "website": "https://thib.me",
-    "summary": "Hi!\n\nI'm Thibaud, a Software Engineer specialized in Web technologies. I contribute to the OSS community and enjoy writing and talking about my discoveries on the Web Platform.\n\nI just moved to New Zealand and am actively looking for a Web-related Developer position in Auckland. I'm a french national with a one-year renewable Work Visa.",
+    "summary": "Hi!\n\I'm Thibaud, a Software Engineer specialized in Web technologies. I contribute to the OSS community and enjoy writing and talking about my discoveries on the Web Platform.\n\nI just moved to New Zealand and am actively looking for a Web-related Developer position in Auckland. I'm a french national with a one-year renewable Work Visa.",
     "location": {
       "address": "8 Scotia Place",
       "postalCode": "1010",
@@ -45,8 +45,8 @@
       "endDate": "2014-11-01",
       "summary": "Lead of a six-person team during functional / technical design and development of an e-commerce portal (500 man-days). International project with teams in France, Denmark, Sweden. Consulting and technical expertise activities at all stages of the project.",
       "highlights": [
-        "Participation to bids on technologically inovative projects (AngularJS, microservices).",
-        "Participation to the company's Excellence Team and to tooling and process improvement campains.",
+        "Participation to bids on technologically innovative projects (AngularJS, microservices).",
+        "Participation to the company's Excellence Team and to tooling and process improvement campaigns.",
         "LAMP, UNIX, SOAP, REST, Angular, RWD, Jenkins, Vagrant, Git, Redmine, JIRA, Scrum"
       ]
     },
@@ -56,18 +56,18 @@
       "website": "http://www.cgi.com/",
       "startDate": "2013-03-01",
       "endDate": "2014-02-01",
-      "summary": "Web Application Development — Participation to PHP development projects with the CGI Web Factory, from design to maintainance.Technical referee on two portal maintenance projects. Drupal 7, RWD, team of six developers.",
+      "summary": "Web Application Development — Participation to PHP development projects with the CGI Web Factory, from design to maintenance.Technical referee on two portal maintenance projects. Drupal 7, RWD, team of six developers.",
       "highlights": [
         "LAMP, UNIX, SOAP, REST, Angular, RWD, Jenkins, Vagrant, Git, Redmine, JIRA, Scrum"
       ]
     },
     {
-      "company": "Université Montpellier 2",
+      "company": "Montpellier 2 University",
       "position": "Graduate Teaching Assistant",
       "website": "http://www.english.univ-montp2.fr/",
       "startDate": "2012-09-01",
       "endDate": "2013-02-01",
-      "summary": "Organisation of three groups in a Computer Science initiation class (Bachelor's degree) and a JavaScript class (Master's degree).",
+      "summary": "Organization of three groups in a Computer Science initiation class (Bachelor's degree) and a JavaScript class (Master's degree).",
       "highlights": [
         "HTML, CSS, JavaScript"
       ]
@@ -84,12 +84,12 @@
       ]
     },
     {
-      "company": "Cornélius Communication",
+      "company": "Cornelius Communication",
       "position": "Webmaster",
       "website": "http://www.cornelius-communication.com/",
       "startDate": "2010-04-01",
       "endDate": "2010-06-01",
-      "summary": "Integration, Development and Webmastering as part of an internship for the end of the DUT.\nSEO optimization, UX and accessibility for existing websites. \nContact with clients and teamwork with the Webmaster and graphists.",
+      "summary": "Integration, Development and Webmastering as part of an internship for the end of the DUT.\nSEO optimization, UX and accessibility for existing websites. \nContact with clients and teamwork with the Webmaster and designers.",
       "highlights": [
         "PHP, MySQL, JS, jQuery, SEO, UX, accessibility, hosting, Photoshop"
       ]
@@ -100,7 +100,7 @@
   ],
   "education": [
     {
-      "institution": "Université Montpellier 2",
+      "institution": "Montpellier 2 University",
       "area": "Web Architecture and Software Engineering",
       "studyType": "Master's degree",
       "startDate": "2011-09-01",
@@ -109,7 +109,7 @@
       "courses": []
     },
     {
-      "institution": "Université Paris Sud (Paris XI)",
+      "institution": "Paris 11 University",
       "area": "Computer Science",
       "studyType": "Bachelor's degree",
       "startDate": "2010-09-01",
@@ -118,7 +118,7 @@
       "courses": []
     },
     {
-      "institution": "Université Paris Sud (Paris XI)",
+      "institution": "Paris 11 University",
       "area": "Computer Science",
       "studyType": "DUT",
       "startDate": "2008-09-01",
@@ -132,12 +132,12 @@
       "title": "JS1K 2014 — Honorable Mention",
       "date": "2014-04-16",
       "awarder": "JS1K",
-      "summary": "Honorable Mention by the JS1K Jury for Dragonsnake, a mashup between snake and fruit ninja written in less than 1K (1012bytes) of JavaScript!"
+      "summary": "Honorable Mention by the JS1K Jury for Dragonsnake, a mash-up between snake and fruit ninja written in less than 1K (1012bytes) of JavaScript!"
     },
     {
       "title": "Montpellier Unlimited Hackathon — Second Prize",
       "date": "2013-09-22",
-      "awarder": "Montpellier Agglomération",
+      "awarder": "Montpellier Agglomeration",
       "summary": "Second Prize for a public transport route calculation app (handles tramway, buses and bikes) in the Montpellier Area. Cross-platform app built with Sencha Touch and Cordova. Node.js backend dispatching transportation data from data repositories (time tables) and SOAP/REST services (real time data, weather data)."
     }
   ],
@@ -522,7 +522,7 @@
   ],
   "references": [
     {
-      "name": "Anthony Dardilhac — Project Lead & Head of tooling — CGI",
+      "name": "Anthony Dardilhac — Project Lead & Head of tooling — CGI WebFactory",
       "reference": "Thibaud example"
     }
   ]
