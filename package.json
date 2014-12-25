@@ -1,16 +1,18 @@
 {
-  "name": "jsonresume",
+  "name": "fullresume",
   "version": "1.0.0",
   "description": "My CV in the JSON-based jsonresume.org format.",
   "author": "ThibWeb",
   "license": "ISC",
-  "homepage": "https://github.com/ThibWeb/jsonresume",
+  "private": true,
+  "homepage": "https://github.com/ThibWeb/fullresume",
+  "main": "resume.json",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ThibWeb/jsonresume.git"
+    "url": "git@github.com:ThibWeb/fullresume.git"
   },
   "bugs": {
-    "url": "https://github.com/ThibWeb/jsonresume/issues"
+    "url": "https://github.com/ThibWeb/fullresume/issues"
   },
   "keywords": [
     "cv",
@@ -18,9 +20,8 @@
     "json",
     "jsonresume"
   ],
-  "main": "resume.json",
   "devDependencies": {
-    "resume-cli": "^0.3.10"
+    "resume-cli": "^0.3.11"
   },
   "scripts": {
     "start": "resume serve",
