@@ -6,7 +6,7 @@
     "email": "thib@thib.me",
     "phone": "+64 21 046 1909",
     "website": "https://thib.me",
-    "summary": "Hi!\n\I'm Thibaud, a Software Engineer specialized in Web technologies. I contribute to the OSS community and enjoy writing and talking about my discoveries on the Web Platform.\n\nI just moved to New Zealand and am actively looking for a Web-related Developer position in Auckland. I'm a french national with a one-year renewable Work Visa.",
+    "summary": "Hi!\n\nI'm Thibaud, a Software Engineer specialized in Web technologies. I contribute to the OSS community and enjoy writing and talking about my discoveries on the Web Platform.\n\nI just moved to New Zealand and am actively looking for a Web-related Developer position in Auckland. I'm a french national with a one-year renewable Work Visa.",
     "location": {
       "address": "8 Scotia Place",
       "postalCode": "1010",
@@ -173,61 +173,75 @@
   ],
   "skills": [
     {
-        "name": "Front-end Development",
+        "name": "Web Development: Front-end",
         "level": "",
-        "keywords": [
-
-        ]
+        "keywords": ["HTML5", "CSS3", "JavaScript", "ES6", "CoffeeScript", "Angular", "Knockout", "jQuery", "Sass", "Less", "Bootstrap", "D3"]
     },
     {
-        "name": "Back-end Development",
+        "name": "Web Development: Back-end",
         "level": "",
-        "keywords": [
-
-        ]
+        "keywords": ["Node", "Express", "Python", "Ruby", "Firebase", "PHP"]
     },
     {
-        "name": "Architecture",
+        "name": "Web Development: Architecture",
         "level": "",
-        "keywords": [
-
-        ]
+        "keywords": ["MVC", "REST", "CRUD", "SPA", "AJAX", "SOAP", "WebSockets"]
     },
     {
-        "name": "Practices",
+        "name": "Consulting",
         "level": "",
-        "keywords": [
-
-        ]
+        "keywords": ["Client Meetings", "Functional Design", "Technical Expertise", "Bid proposals"]
     },
     {
-        "name": "Front-end tooling",
+        "name": "Project Management",
         "level": "",
-        "keywords": [
-
-        ]
+        "keywords": ["Team lead", "Coaching", "Quality Assurance", "Team meetings", "Cost estimates", "Training", "Documentation", "HR management"]
     },
     {
-        "name": "Sysadmin & DevOps",
+        "name": "Methodologies & Principles",
         "level": "",
-        "keywords": [
-
-        ]
+        "keywords": ["Agile", "Scrum", "TDD", "DRY & KISS", "SOLID"]
+    },
+    {
+        "name": "Front-end Practices",
+        "level": "",
+        "keywords": ["RWD", "A/B Testing", "Accessibility", "Feature Detection", "Mobile First", "Performance Optimization", "Progressive Enhancement", "SEO"]
+    },
+    {
+        "name": "Testing Practices",
+        "level": "",
+        "keywords": ["Unit Testing", "Performance Testing", "Functional Testing"]
+    },
+    {
+        "name": "Front-end Tools",
+        "level": "",
+        "keywords": ["npm", "Bower", "Gulp", "Grunt"]
+    },
+    {
+        "name": "Testing Tools",
+        "level": "",
+        "keywords": ["Karma", "Mocha", "Chai", "Jasmine", "Selenium"]
+    },
+    {
+        "name": "Project Management Tools",
+        "level": "",
+        "keywords": ["Git", "SVN", "GitHub", "GitLab", "Redmine", "JIRA", "Jenkins", "Travis", "Office"]
+    },
+    {
+        "name": "Sysadmin & Ops",
+        "level": "",
+        "keywords": ["Apache", "MySQL", "Staged deployments"]
     },
     {
         "name": "Environments",
         "level": "",
-        "keywords": [
-
-        ]
+        "keywords": ["Unix", "OSX", "Windows", "Vagrant", "AWS", "Heroku"]
     },
     {
-        "name": "Tooling",
+        "name": "Databases",
         "level": "",
-        "keywords": [
-
-        ]
-    },
+        "keywords": ["MariaDB", "MySQL", "MongoDB", "PostgreSQL"]
+    }
   ],
   "languages": [
     {
