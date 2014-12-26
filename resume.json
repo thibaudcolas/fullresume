@@ -144,24 +144,28 @@
   "publications": [
     {
       "name": "ES6: Quick Wins",
+      "publisher": "",
       "releaseDate": "2014-10-19",
       "website": "http://talks.thib.me/",
       "summary": "Lightning talk that I gave at Mix-IT 2014, describing three quick and simple ways to use new JavaScript features today."
     },
     {
       "name": "Node.js: platform overview",
+      "publisher": "",
       "releaseDate": "2014-04-27",
       "website": "http://talks.thib.me/",
       "summary": "A broad overview of the Node.js platform, to get my coworkers hooked."
     },
     {
       "name": "Browser Performance: The Critical Path",
+      "publisher": "",
       "releaseDate": "2014-03-24",
       "website": "http://talks.thib.me/",
       "summary": "Inspired by a talk I heard at the Takeoff conference, a presentation on the Critical Path in page rendering and how to optimize it."
     },
     {
       "name": "Personal Blog",
+      "publisher": "",
       "releaseDate": "2013-12-06",
       "website": "http://blog.thib.me/",
       "summary": "Notes, Thoughts and Open-source software."
@@ -169,313 +173,61 @@
   ],
   "skills": [
     {
-      "name": "REST",
-      "level": "",
-      "keywords": [
+        "name": "Front-end Development",
+        "level": "",
+        "keywords": [
 
-      ]
+        ]
     },
     {
-      "name": "HTML5",
-      "level": "",
-      "keywords": [
+        "name": "Back-end Development",
+        "level": "",
+        "keywords": [
 
-      ]
+        ]
     },
     {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": [
+        "name": "Architecture",
+        "level": "",
+        "keywords": [
 
-      ]
+        ]
     },
     {
-      "name": "Semantic Web",
-      "level": "",
-      "keywords": [
+        "name": "Practices",
+        "level": "",
+        "keywords": [
 
-      ]
+        ]
     },
     {
-      "name": "AJAX",
-      "level": "",
-      "keywords": [
+        "name": "Front-end tooling",
+        "level": "",
+        "keywords": [
 
-      ]
+        ]
     },
     {
-      "name": "Node.js",
-      "level": "",
-      "keywords": [
+        "name": "Sysadmin & DevOps",
+        "level": "",
+        "keywords": [
 
-      ]
+        ]
     },
     {
-      "name": "jQuery",
-      "level": "",
-      "keywords": [
+        "name": "Environments",
+        "level": "",
+        "keywords": [
 
-      ]
+        ]
     },
     {
-      "name": "CRUD",
-      "level": "",
-      "keywords": [
+        "name": "Tooling",
+        "level": "",
+        "keywords": [
 
-      ]
+        ]
     },
-    {
-      "name": "git",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Sass",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Less",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "ES6",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Angular",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Knockout",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "D3",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Ruby",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "JVM",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "PHP",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "MVC",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "SPA",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "TDD",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "RWD",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Gulp",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "npm",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Unix",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Apache",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Amazon EC2",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "SVN",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Jenkins",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Selenium",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Travis",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "JIRA",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "SEO",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Accessibility",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "SOAP",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Vagrant",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Scrum",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Bootstrap",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Jasmine",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Express",
-      "level": "",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Firebase",
-      "level": "",
-      "keywords": [
-
-      ]
-    }
   ],
   "languages": [
     {
@@ -484,7 +236,7 @@
     },
     {
       "language": "English",
-      "fluency": "Full professional ability"
+      "fluency": "Full professional ability — TOEIC: 985/990"
     }
   ],
   "interests": [
@@ -523,7 +275,7 @@
   "references": [
     {
       "name": "Anthony Dardilhac — Project Lead & Head of tooling — CGI WebFactory",
-      "reference": "Thibaud example"
+      "reference": "Thibaud is an avid developer. He quickly grasps complex problems and goes beyond the expectations of his managers. Thanks to his great coaching skills and clear explanations, he helped his colleagues to improve themselves. It's a pleasure to work with him and I recommend him with my eyes closed."
     }
   ]
 }
