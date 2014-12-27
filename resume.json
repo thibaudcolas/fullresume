@@ -6,7 +6,7 @@
     "email": "thib@thib.me",
     "phone": "+64 21 046 1909",
     "website": "https://thib.me",
-    "summary": "Hi!\n\nI'm Thibaud, a Software Engineer specialized in Web technologies. I contribute to the OSS community and enjoy writing and talking about my discoveries on the Web Platform.\n\nI just moved to New Zealand and am actively looking for a Web-related Developer position in Auckland. I'm a french national with a one-year renewable Work Visa.",
+    "summary": "Hi!\n\aim Thibaud, a Software Engineer specialized in Web technologies. I contribute to the OSS community and enjoy writing and talking about my discoveries on the Web Platform.\n\nI just moved to New Zealand and am actively looking for a Web-related Developer position in Auckland. I'm a french national with a one-year renewable Work Visa.",
     "location": {
       "address": "8 Scotia Place",
       "postalCode": "1010",
@@ -43,11 +43,15 @@
       "website": "http://www.cgi.com/",
       "startDate": "2014-02-01",
       "endDate": "2014-11-01",
-      "summary": "Lead of a six-person team during functional / technical design and development of an e-commerce portal (500 man-days). International project with teams in France, Denmark, Sweden. Consulting and technical expertise activities at all stages of the project.",
+      "summary": "Lead of a six-person team during design and development of an e-commerce portal (500 man-days). Consulting and technical expertise activities at all stages of the project.",
       "highlights": [
-        "Participation to bids on technologically innovative projects (AngularJS, microservices).",
-        "Participation to the company's Excellence Team and to tooling and process improvement campaigns.",
-        "LAMP, UNIX, SOAP, REST, Angular, RWD, Jenkins, Vagrant, Git, Redmine, JIRA, Scrum"
+        "International project with teams in France, Denmark, Sweden.",
+        "Frequent client meetings abroad and by telephone.",
+        "Participation to bid projects with innovative technology stacks (POCs with Angular, Polymer, Spring microservices).",
+        "Participation to the CGI Web Factory's Excellence Team, dedicated to improve tooling and processes throughout all projects.",
+        "Deployment of Selenium on the agency's Continuous Integration platform (Jenkins), available for all projects.",
+        "Mentoring of three interns (one Master's two Bachelors).",
+        "LAMP, Drupal, JavaScript, Angular, jQuery, RWD, SOAP, REST, Jenkins, Selenium, Git, Redmine, JIRA, Scrum"
       ]
     },
     {
@@ -56,9 +60,13 @@
       "website": "http://www.cgi.com/",
       "startDate": "2013-03-01",
       "endDate": "2014-02-01",
-      "summary": "Web Application Development — Participation to PHP development projects with the CGI Web Factory, from design to maintenance.Technical referee on two portal maintenance projects. Drupal 7, RWD, team of six developers.",
+      "summary": "Web Application Development — Participation to PHP development projects with the CGI Web Factory, from design to maintenance.",
       "highlights": [
-        "LAMP, UNIX, SOAP, REST, Angular, RWD, Jenkins, Vagrant, Git, Redmine, JIRA, Scrum"
+        "Technical referee and Project Lead backup on two portal maintenance projects. Team of six developers.",
+        "Direct mentoring of two developers.",
+        "Improvement on functional regression rates by adding Selenium to the team's testing process.",
+        "Customer Satisfaction: 9.6/10",
+        "LAMP, Drupal, JavaScript, jQuery, RWD, SOAP, REST, Jenkins, Selenium, Git, Redmine"
       ]
     },
     {
@@ -67,7 +75,7 @@
       "website": "http://www.english.univ-montp2.fr/",
       "startDate": "2012-09-01",
       "endDate": "2013-02-01",
-      "summary": "Organization of three groups in a Computer Science initiation class (Bachelor's degree) and a JavaScript class (Master's degree).",
+      "summary": "Organization of three groups in a JavaScript class (Master's degree) and a Computer Science initiation class (Bachelor's degree).",
       "highlights": [
         "HTML, CSS, JavaScript"
       ]
@@ -80,7 +88,8 @@
       "endDate": "2012-11-01",
       "summary": "Design and development of new features for Datalift, as part of an internship. Datalift is a linked data publication platform for the Semantic Web. Data Visualization and transformation in the SemWeb spirit, JEE and SPA (Knockout).",
       "highlights": [
-        "JEE, Knockout, Bootstrap, D3, SPARQL, Sesame, Git"
+        "This position required a high level of autonomy as the development team was scattered across France.",
+        "JEE, Jersey, Knockout, Bootstrap, D3, SPARQL, Sesame, Git"
       ]
     },
     {
@@ -89,7 +98,7 @@
       "website": "http://www.cornelius-communication.com/",
       "startDate": "2010-04-01",
       "endDate": "2010-06-01",
-      "summary": "Integration, Development and Webmastering as part of an internship for the end of the DUT.\nSEO optimization, UX and accessibility for existing websites. \nContact with clients and teamwork with the Webmaster and designers.",
+      "summary": "Integration, Development and Webmastering as part of an internship for the end of the DUT.\n \nContact with clients and teamwork with the Webmaster and designers.",
       "highlights": [
         "PHP, MySQL, JS, jQuery, SEO, UX, accessibility, hosting, Photoshop"
       ]
