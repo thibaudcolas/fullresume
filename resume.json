@@ -250,7 +250,7 @@
     },
     {
       "language": "English",
-      "fluency": "Full professional ability — TOEIC: 985/990"
+      "fluency": "Fluent — TOEIC: 985/990"
     }
   ],
   "interests": [
@@ -290,6 +290,10 @@
     {
       "name": "Anthony Dardilhac — Project Lead & Head of tooling — CGI WebFactory",
       "reference": "Thibaud is an avid developer. He quickly grasps complex problems and goes beyond the expectations of his managers. Thanks to his great coaching skills and clear explanations, he helped his colleagues to improve themselves. It's a pleasure to work with him and I recommend him with my eyes closed."
+    },
+    {
+      "name": "Arnaud Paul — Project Lead, Open-Source Consultant — CGI WebFactory",
+      "reference": "An incredible analytical capability, an undeniable technical background and a great customer relationship.\nThibaud is a leader and he knows how to drive his team throughout the project."
     }
   ]
 }
