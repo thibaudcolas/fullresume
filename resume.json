@@ -66,7 +66,7 @@
         "Direct mentoring of two developers.",
         "Improvement on functional regression rates by adding Selenium to the team's testing process.",
         "Customer Satisfaction: 9.6/10",
-        "LAMP, Drupal, JavaScript, jQuery, RWD, SOAP, REST, Jenkins, Selenium, Git, Redmine"
+        "LAMP, Drupal, JavaScript, jQuery, RWD, SOAP, Jenkins, Selenium, Git"
       ]
     },
     {
@@ -89,7 +89,7 @@
       "summary": "Design and development of new features for Datalift, as part of an internship. Datalift is a linked data publication platform for the Semantic Web. Data Visualization and transformation in the SemWeb spirit, JEE and SPA (Knockout).",
       "highlights": [
         "This position required a high level of autonomy as the development team was scattered across France.",
-        "JEE, Jersey, Knockout, Bootstrap, D3, SPARQL, Sesame, Git"
+        "JEE, Jersey, Knockout, Bootstrap, SPARQL, Sesame, RDF, Git"
       ]
     },
     {
@@ -135,21 +135,22 @@
       "website": "https://github.com/Froggies/Skimbo",
       "startDate": "2013-05-31",
       "endDate": "2013-06-02",
-      "summary": "",
+      "summary": "Skimbo is a social-networks mashup. It helps you manage your social networks, for example by viewing and posting to multiple social feeds at once.",
       "highlights": [
-        "First started by the Froggies team for the Typesafe contest, development continued during the Montpellier Startup Weekend.",
-        "AngularJS, Scala, Play 2, MongoDB, WebSockets"
+        "First started by the Froggies team for the TypeSafe contest, development continued during the Montpellier Startup Weekend.",
+        "Scala, Play 2, AngularJS, Less, MongoDB, WebSockets"
       ]
     },
     {
       "organization": "D4",
       "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "website": "https://github.com/ThibWeb/d4",
+      "startDate": "2012-11-10",
+      "endDate": "2013-01-14",
+      "summary": "D4 is a Datalift module to visualize RDF statistical datasets using the DataCube ontology. D4 is built with Bootstrap, D3.js and CoffeeScript.",
       "highlights": [
-        ""
+        "D4 was made as part of a Master's degree Web Development course.",
+        "CoffeeScript, jQuery, Bootstrap, Underscore, D3, SPARQL"
       ]
     }
   ],
