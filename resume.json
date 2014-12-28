@@ -111,7 +111,7 @@
       "website": "https://github.com/FlipFlopWeekly/zori",
       "startDate": "2014-01-31",
       "endDate": "2014-06-20",
-      "summary": "A real-time link sharer using Firebase as its backend and AngularJS on the frontend.",
+      "summary": "A real-time link sharer using Firebase as its backend and AngularJS on the front-end.",
       "highlights": [
         "Side-project built with friends to use together and to discover Firebase.",
         "AngularJS, Firebase, RequireJS, Bootstrap, Gulp, Bower, npm"
@@ -135,9 +135,9 @@
       "website": "https://github.com/Froggies/Skimbo",
       "startDate": "2013-05-31",
       "endDate": "2013-06-02",
-      "summary": "Skimbo is a social-networks mashup. It helps you manage your social networks, for example by viewing and posting to multiple social feeds at once.",
+      "summary": "Skimbo is a social-networks mash-up. It helps you manage your social networks, for example by viewing and posting to a lot of social feeds at once.",
       "highlights": [
-        "First started by the Froggies team for the TypeSafe contest, development continued during the Montpellier Startup Weekend.",
+        "First started by the Froggies team for the TypeSafe contest, development continued during the Montpellier Start-up Weekend.",
         "Scala, Play 2, AngularJS, Less, MongoDB, WebSockets"
       ]
     },
