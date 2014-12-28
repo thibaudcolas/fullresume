@@ -105,7 +105,53 @@
     }
   ],
   "volunteer": [
-
+    {
+      "organization": "Zori",
+      "position": "",
+      "website": "https://github.com/FlipFlopWeekly/zori",
+      "startDate": "2014-01-31",
+      "endDate": "",
+      "summary": "A real-time link sharer using Firebase as its backend and AngularJS on the frontend.",
+      "highlights": [
+        "Side-project built with friends to use together and to discover Firebase.",
+        "AngularJS, Firebase, RequireJS, Bootstrap, Gulp, Bower, npm"
+      ]
+    },
+    {
+      "organization": "Smoov",
+      "position": "",
+      "website": "https://github.com/LastMinuteMtp",
+      "startDate": "2013-09-21",
+      "endDate": "2013-09-23",
+      "summary": "Cross-platform transportation app built with Sencha Touch and Cordova. Node.js backend dispatching transportation data from data repositories (time tables) and SOAP/REST services (real time data, weather data).",
+      "highlights": [
+        "Built by a team of four during the Montpellier Unlimited Hackathon, won second prize.",
+        "Sencha Touch, Sass, Cordova, Node, SOAP, REST"
+      ]
+    },
+    {
+      "organization": "Skimbo",
+      "position": "",
+      "website": "https://github.com/Froggies/Skimbo",
+      "startDate": "2013-05-31",
+      "endDate": "2013-06-02",
+      "summary": "",
+      "highlights": [
+        "First started by the Froggies team for the Typesafe contest, development continued during the Montpellier Startup Weekend.",
+        "AngularJS, Scala, Play 2, MongoDB, WebSockets"
+      ]
+    },
+    {
+      "organization": "D4",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
   ],
   "education": [
     {
