@@ -6,7 +6,7 @@
     "email": "thib@thib.me",
     "phone": "+64 21 046 1909",
     "website": "https://thib.me",
-    "summary": "Hi!\n\nI'm Thibaud, a Software Engineer specialized in Web technologies. I contribute to the OSS community and enjoy writing and talking about my discoveries on the Web Platform.\n\nI just moved to New Zealand and am actively looking for a Web-related Developer position in Auckland. I'm a french national with a one-year renewable Work Visa.",
+    "summary": "Hi! I'm Thibaud Colas, a french national that just moved to beautiful New Zealand.\n\nI'm actively looking for a Web Development job in Auckland. I have a one-year renewable work visa, a love for the Web Platform and an in-depth knowledge of the JavaScript ecosystem.\n\nIf you're looking for a talented and eager developer to work on your projects, I'll be happy to meet you!",
     "location": {
       "address": "8 Scotia Place",
       "postalCode": "1010",
@@ -110,7 +110,7 @@
       "position": "",
       "website": "https://github.com/FlipFlopWeekly/zori",
       "startDate": "2014-01-31",
-      "endDate": "",
+      "endDate": "2014-06-20",
       "summary": "A real-time link sharer using Firebase as its backend and AngularJS on the frontend.",
       "highlights": [
         "Side-project built with friends to use together and to discover Firebase.",

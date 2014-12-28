@@ -7,3 +7,6 @@ dist
 .tmp
 npm-debug.log
 resume.json.bak
+resume.html
+resume.pdf
+resume.txt
