@@ -29,6 +29,6 @@
     "test": "resume test",
     "lint": "write-good --no-adverb --no-passive resume.json && ./rank-writing.py --aspell --diction resume.json",
     "export:pdf": "resume export --format pdf --theme paper",
-    "export:html": "resume export --format html --theme flat"
+    "export:html": "resume export --format html --theme eloquent"
   }
 }
