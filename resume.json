@@ -169,17 +169,8 @@
       "institution": "Paris 11 University",
       "area": "Computer Science",
       "studyType": "Bachelor's degree",
-      "startDate": "2010-09-01",
-      "endDate": "2011-07-01",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "Paris 11 University",
-      "area": "Computer Science",
-      "studyType": "DUT",
       "startDate": "2008-09-01",
-      "endDate": "2010-07-01",
+      "endDate": "2011-07-01",
       "gpa": "",
       "courses": []
     }
