@@ -33,6 +33,6 @@
     "export:html": "resume export --format html --theme eloquent"
   },
   "dependencies": {
-    "jsonresume-theme-eloquent": "^0.3.5"
+    "jsonresume-theme-eloquent": "^0.4.1"
   }
 }
