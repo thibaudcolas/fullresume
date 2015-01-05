@@ -27,7 +27,7 @@
   "scripts": {
     "start": "resume serve",
     "test": "resume test",
-    "lint": "write-good --no-adverb --no-passive resume.json && ./rank-writing.py --aspell --diction resume.json",
+    "lint": "write-good --no-adverb --no-passive --no-weasel resume.json && ./rank-writing.py --aspell --diction resume.json",
     "export": "node index.js",
     "export:pdf": "resume export --format pdf --theme paper",
     "export:html": "resume export --format html --theme eloquent"
