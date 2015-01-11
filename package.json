@@ -20,6 +20,9 @@
     "json",
     "jsonresume"
   ],
+  "dependencies": {
+    "jsonresume-theme-eloquent": "^0.5.1"
+  },
   "devDependencies": {
     "resume-cli": "^0.3.11",
     "write-good": "^0.8.0"
@@ -28,11 +31,6 @@
     "start": "resume serve",
     "test": "resume test",
     "lint": "write-good --no-adverb --no-passive --no-weasel resume.json && ./rank-writing.py --aspell --diction resume.json",
-    "export": "node index.js",
-    "export:pdf": "resume export --format pdf --theme paper",
-    "export:html": "resume export --format html --theme eloquent"
-  },
-  "dependencies": {
-    "jsonresume-theme-eloquent": "^0.4.1"
+    "export": "node index.js"
   }
 }
