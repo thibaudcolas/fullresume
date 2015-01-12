@@ -87,10 +87,10 @@
       "website": "http://datalift.org/",
       "startDate": "2012-06-01",
       "endDate": "2012-11-30",
-      "summary": "Design and development of new features for Datalift, as part of an internship. Datalift is a linked data publication platform for the Semantic Web. Data Visualization and transformation in the SemWeb spirit, JEE and SPA (Knockout).",
+      "summary": "Design and development of new features for Datalift, as part of an internship. Datalift is a linked data publication platform for the Semantic Web. Data Visualization and transformation in the SemWeb spirit.",
       "highlights": [
         "This position required a high level of autonomy as the development team was scattered across France.",
-        "JEE, Jersey, Knockout, Bootstrap, SPARQL, Sesame, RDF, Git"
+        "JEE, Jersey, Knockout, Bootstrap, D3, SPARQL, Sesame, RDF, Git"
       ]
     },
     {
@@ -151,7 +151,7 @@
       "summary": "D4 is a Datalift module to visualize RDF statistical datasets using the DataCube ontology. D4 is built with Bootstrap, D3.js and CoffeeScript.",
       "highlights": [
         "D4 was made as part of a Master's degree Web Development course.",
-        "CoffeeScript, jQuery, Bootstrap, Underscore, D3, SPARQL"
+        "JEE, Jersey, CoffeeScript, Knockout, Bootstrap, Underscore, D3, NVD3, SPARQL"
       ]
     }
   ],
