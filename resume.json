@@ -191,6 +191,13 @@
   ],
   "publications": [
     {
+      "name": "Visualization Experiments",
+      "publisher": "",
+      "releaseDate": "2015-01-06",
+      "website": "http://viz.thib.me/",
+      "summary": "A group of little visualizations running in the browser."
+    },
+    {
       "name": "ES6: Quick Wins",
       "publisher": "",
       "releaseDate": "2014-10-19",
