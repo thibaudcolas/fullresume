@@ -21,7 +21,7 @@
     "jsonresume"
   ],
   "dependencies": {
-    "jsonresume-theme-eloquent": "^0.6.0"
+    "jsonresume-theme-eloquent": "^0.7.2"
   },
   "devDependencies": {
     "resume-cli": "^0.3.11",
