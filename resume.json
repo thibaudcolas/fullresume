@@ -51,7 +51,7 @@
         "Participation to presales projects with innovative technology stacks (POCs with Angular, Polymer, Spring microservices).",
         "Participation to the CGI Web Factory's Excellence Team, dedicated to improve tooling and processes throughout all projects.",
         "Deployment of Selenium on the agency's Continuous Integration platform (Jenkins), available for all projects.",
-        "Mentoring of three interns (one Master's two Bachelors).",
+        "Mentoring of three interns.",
         "LAMP, Drupal, JavaScript, Angular, jQuery, RWD, SOAP, REST, Jenkins, Selenium, Git, Redmine, JIRA, Scrum"
       ]
     },
@@ -180,7 +180,7 @@
       "title": "JS1K 2014 — Honorable Mention",
       "date": "2014-04-16",
       "awarder": "JS1K",
-      "summary": "Honorable Mention by the JS1K Jury for Dragonsnake, a mash-up between snake and fruit ninja written in less than 1K (1012bytes) of JavaScript!"
+      "summary": "Honorable Mention by the JS1K Jury for Dragonsnake, a mash-up between snake and fruit ninja written in less than 1K (1024 bytes) of JavaScript!"
     },
     {
       "title": "Montpellier Unlimited Hackathon — Second Prize",
@@ -343,15 +343,15 @@
   ],
   "references": [
     {
-      "name": "Anthony Dardilhac — Project Lead, Head of tooling — CGI WebFactory",
+      "name": "Anthony Dardilhac - Project Lead, Head of tooling - CGI WebFactory",
       "reference": "Thibaud is an avid developer. He quickly grasps complex problems and goes beyond the expectations of his managers. Thanks to his great coaching skills and clear explanations, he helped his colleagues to improve themselves. It's a pleasure to work with him and I recommend him with my eyes closed."
     },
     {
-      "name": "Arnaud Paul — Project Lead, Open-Source Consultant — CGI WebFactory",
+      "name": "Arnaud Paul - Project Lead, Open-Source Consultant - CGI WebFactory",
       "reference": "An incredible analytical capability, an undeniable technical background and a great customer relationship.\nThibaud is a leader and he knows how to drive his team throughout the project."
     },
     {
-      "name": "Guillaume Kulakowski — Open-Source Solutions Expert, Head of the Technical Expertise Team — CGI WebFactory",
+      "name": "Guillaume Kulakowski - Open-Source Solutions Expert, Head of the Technical Expertise Team - CGI WebFactory",
       "reference": "Thibaud was an excellent intern and collaborator.\n Motivated and passionate, always on the lookout for new tools or processes to improve quality and productivity. Thibaud is also an excellent speaker able to animate interesting presentations and Lightning Talks, especially around JavaScript, Web Performance and Open-Source Solutions."
     }
   ]
