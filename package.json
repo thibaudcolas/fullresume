@@ -28,7 +28,7 @@
     "write-good": "^0.8.0"
   },
   "scripts": {
-    "start": "resume serve",
+    "start": "npm run export -s",
     "test": "resume test",
     "lint": "write-good --no-adverb --no-passive --no-weasel resume.json && ./rank-writing.py --aspell --diction resume.json",
     "export": "node index.js"
