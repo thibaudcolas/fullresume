@@ -124,6 +124,17 @@
   ],
   "volunteer": [
     {
+      "organization": "Oulu Web Development Meetup",
+      "position": "Organizer & founder",
+      "website": "https://www.meetup.com/Oulu-Web-Development/",
+      "startDate": "2016-05-01",
+      "summary": "A Meetup.com group about Web Development, open to everyone from professionals to newcomers, creative types to technical. Each event explores a specific topic in the form of presentations, open discussions or workshops.",
+      "highlights": [
+        "Local, english-speaking group of common interest",
+        "Meetups every month"
+      ]
+    },
+    {
       "organization": "Zori",
       "position": "",
       "website": "https://github.com/FlipFlopWeekly/zori",
@@ -194,19 +205,29 @@
   ],
   "awards": [
     {
+      "title": "Startup Weekend Wellington Health 2015 – Second place",
+      "date": "2015-07-04",
+      "summary": "Arrived second with our \"Paper Preen\" project. An automated quality control / linting and reviewing tool for research papers, prototype built with React and a Node.js backend"
+    },
+    {
       "title": "JS1K 2014 — Honorable Mention",
       "date": "2014-04-16",
-      "awarder": "JS1K",
       "summary": "Honorable Mention by the JS1K Jury for Dragonsnake, a mash-up between snake and fruit ninja written in less than 1K (1024 bytes) of JavaScript!"
     },
     {
       "title": "Montpellier Unlimited Hackathon — Second Prize",
       "date": "2013-09-22",
-      "awarder": "Montpellier Agglomeration",
       "summary": "Second Prize for a public transport route calculation app (handles tramway, buses and bikes) in the Montpellier Area. Cross-platform app built with Sencha Touch and Cordova. Node.js backend dispatching transportation data from data repositories (time tables) and SOAP/REST services (real time data, weather data)."
     }
   ],
   "publications": [
+    {
+      "name": "Springload Blog",
+      "publisher": "",
+      "releaseDate": "2016-02-22",
+      "website": "https://www.springload.co.nz/blog/",
+      "summary": "Frequent contributor to Springload's blog. Posts on code, design, user experience, and remote work."
+    },
     {
       "name": "Visualization Experiments",
       "publisher": "",
@@ -215,25 +236,11 @@
       "summary": "A group of little visualizations running in the browser."
     },
     {
-      "name": "ES6: Quick Wins",
+      "name": "Public speaking",
       "publisher": "",
-      "releaseDate": "2014-10-19",
+      "releaseDate": "2014-10-01",
       "website": "http://talks.thib.me/",
-      "summary": "Lightning talk that I gave at Mix-IT 2014, describing three quick and simple ways to use new JavaScript features today."
-    },
-    {
-      "name": "Node.js: platform overview",
-      "publisher": "",
-      "releaseDate": "2014-04-27",
-      "website": "http://talks.thib.me/",
-      "summary": "A broad overview of the Node.js platform, to get my coworkers hooked."
-    },
-    {
-      "name": "Browser Performance: The Critical Path",
-      "publisher": "",
-      "releaseDate": "2014-03-24",
-      "website": "http://talks.thib.me/",
-      "summary": "Inspired by a talk I heard at the Takeoff conference, a presentation on the Critical Path in page rendering and how to optimize it."
+      "summary": "Public talks in either english or french, given at various events around the world."
     },
     {
       "name": "Personal Blog",
