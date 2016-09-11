@@ -2,17 +2,17 @@
   "name": "fullresume",
   "version": "1.0.0",
   "description": "My CV in the JSON-based jsonresume.org format.",
-  "author": "ThibWeb",
+  "author": "thibaudcolas",
   "license": "ISC",
   "private": true,
-  "homepage": "https://github.com/ThibWeb/fullresume",
+  "homepage": "https://github.com/thibaudcolas/fullresume",
   "main": "resume.json",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ThibWeb/fullresume.git"
+    "url": "git@github.com:thibaudcolas/fullresume.git"
   },
   "bugs": {
-    "url": "https://github.com/ThibWeb/fullresume/issues"
+    "url": "https://github.com/thibaudcolas/fullresume/issues"
   },
   "keywords": [
     "cv",

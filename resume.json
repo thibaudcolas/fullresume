@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "ThibWeb",
-        "url": "https://github.com/ThibWeb"
+        "username": "thibaudcolas",
+        "url": "https://github.com/thibaudcolas"
       },
       {
         "network": "Twitter",
@@ -173,7 +173,7 @@
     {
       "organization": "D4",
       "position": "",
-      "website": "https://github.com/ThibWeb/d4",
+      "website": "https://github.com/thibaudcolas/d4",
       "startDate": "2012-11-10",
       "endDate": "2013-01-14",
       "summary": "D4 is a Datalift module to visualize RDF statistical datasets using the DataCube ontology. D4 is built with Bootstrap, D3.js and CoffeeScript.",
