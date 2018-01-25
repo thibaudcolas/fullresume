@@ -5,6 +5,8 @@
 ## Getting started
 
 ```
+brew install aspell
+brew install diction
 nvm use
 npm install
 npm run export
