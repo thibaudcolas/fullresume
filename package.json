@@ -22,8 +22,8 @@
     "jsonresume-theme-eloquent": "^3.0.0"
   },
   "devDependencies": {
-    "resume-cli": "^0.3.11",
-    "write-good": "^0.8.0"
+    "resume-cli": "^0.4.19",
+    "write-good": "^0.11.3"
   },
   "scripts": {
     "start": "npm run export -s",
