@@ -1,10 +1,8 @@
 {
   "name": "fullresume",
   "version": "1.0.0",
-  "description": "My CV in the JSON-based jsonresume.org format.",
-  "author": "thibaudcolas",
-  "license": "ISC",
   "private": true,
+  "description": "My CV in the JSON-based jsonresume.org format",
   "homepage": "https://github.com/thibaudcolas/fullresume",
   "main": "resume.json",
   "repository": {
